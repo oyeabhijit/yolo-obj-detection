@@ -7,7 +7,6 @@ This project was done with the help of Darknet's YOLO repo, which helps to train
 * **Installation Guide:** https://pjreddie.com/darknet/install/
 * **YOLO Weights Download:** https://pjreddie.com/media/files/yolov3.weights
 * **OpenCV:** https://github.com/opencv/opencv
-* **https://github.com/opencv/opencv:**
 
 ## Scaled-YOLOv4: 
 
