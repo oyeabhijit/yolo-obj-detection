@@ -1,6 +1,6 @@
 # YOLO (You Only Look Once) Object Detection Project
 
-This project was done with the help of Darknet's YOLO repo, which helps to train and test custom models.
+This project was done with the help of Darknet's YOLO repo, which helps to train and test custom models. Find this [link](https://youtu.be/04bXj-xOJkQ) for compilation video.
 
 ## Resource Links:
 * **Darknet Website:** https://pjreddie.com/darknet/
