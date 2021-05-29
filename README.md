@@ -1,5 +1,8 @@
 # YOLO (You Only Look Once) Object Detection Project
 
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> 
+
+## Declaration:
 This project was done with the help of Darknet's YOLO repo, which helps to train and test custom models. Find this [link](https://youtu.be/04bXj-xOJkQ) for compilation video.
 
 ## Resource Links:
