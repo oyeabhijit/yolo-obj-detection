@@ -11,16 +11,6 @@ This project was done with the help of Darknet's YOLO repo, which helps to train
 * **YOLO Weights Download:** https://pjreddie.com/media/files/yolov3.weights
 * **OpenCV:** https://github.com/opencv/opencv
 
-## Scaled-YOLOv4: 
-
-* **Paper:** https://arxiv.org/abs/2011.08036
-
-* **Source code - Pytorch (use to reproduce results):** https://github.com/WongKinYiu/ScaledYOLOv4
-
-* **Source code - Darknet:** https://github.com/AlexeyAB/darknet
-
-* **Medium:** https://alexeyab84.medium.com/scaled-yolo-v4-is-the-best-neural-network-for-object-detection-on-ms-coco-dataset-39dfa22fa982?source=friends_link&sk=c8553bfed861b1a7932f739d26f487c8
-
 ## YOLOv4:
 
 * **Paper:** https://arxiv.org/abs/2004.10934
