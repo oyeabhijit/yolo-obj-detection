@@ -28,9 +28,17 @@ This project was done with the help of Darknet's YOLO repo, which helps to train
 
 * **Useful links:** https://medium.com/@alexeyab84/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe?source=friends_link&sk=6039748846bbcf1d960c3061542591d7
 
-## FPS Measured in Tesla GPUs
-![fps_measure](https://user-images.githubusercontent.com/4096485/90338826-06114c80-dff5-11ea-9ba2-8eb63a7409b3.png)<br>
 ## Input Data
-![Imput Data](https://firebasestorage.googleapis.com/v0/b/fir-demo-7bbf9.appspot.com/o/yolo_source.png?alt=media&token=9767e188-236a-448b-bada-af6044a07530)<br>
+<p align="center">
+  <img width="1000" src="https://raw.githubusercontent.com/oyeabhijit/yolo-obj-detection/main/input_video/input.gif" alt="Input Data">
+</p>
+
 ## Output Data
-![Output Data](https://firebasestorage.googleapis.com/v0/b/fir-demo-7bbf9.appspot.com/o/yolo_test.png?alt=media&token=419a3682-0bbc-4122-b681-da906bd8335f)
+<p align="center">
+  <img width="1000" src="https://raw.githubusercontent.com/oyeabhijit/yolo-obj-detection/main/output_video/output.gif" alt="Output Data">
+</p>
+
+## Real-time FPS Measured in Tesla GPUs
+<p align="center">
+  <img width="1000" src="https://user-images.githubusercontent.com/4096485/90338826-06114c80-dff5-11ea-9ba2-8eb63a7409b3.png" alt="GPU Comparision">
+</p>
